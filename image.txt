@@ -1,0 +1,24 @@
+https://www.google.com.af/search
+?q=harvard
+&hl=en
+&authuser=0
+&tbm=isch
+&source=hp
+&biw=1003
+&bih=937
+&ei=ZJPAYPLaDs-flwTP25vgDg
+&oq=harvard
+&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CAgAEAgQBxAeUM4HWJg9YPTIAmgAcAB4AIABrwGIAcMKkgEDMC45mAEAoAEBqgELZ3dzLXdpei1pbWc
+&sclient=img
+&ved=0ahUKEwjynJHIp4rxAhXPz4UKHc_tBuwQ4dUDCAY
+&uact=5
+
+
+
+https://www.google.com/search
+?q=harvard
+&btnI=I'm Feeling Lucky
+&sxsrf=ALeKk01B-FaeZ40ugS12WmbA_SNS4dFXoA:1623274895841
+&source=hp
+&ei=jzXBYLGjMKqwrgT3uZrwAQ
+&iflsig=AINFCbYAAAAAYMFDn6WY57mcyN-6Q-qfti2l_bJXCJAz
